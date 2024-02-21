@@ -5,3 +5,4 @@ This is an example remote repository for the Github tutoial on https://www.w3sch
 This repository is built step by step in the tutorial.
 
 It now includes steps for Github.
+It is local to remote branch push.
